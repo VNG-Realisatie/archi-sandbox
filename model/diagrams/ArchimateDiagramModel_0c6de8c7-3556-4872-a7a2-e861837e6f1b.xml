@@ -2,8 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Auditing"
-    id="0c6de8c7-3556-4872-a7a2-e861837e6f1b"
-    connectionRouterType="2">
+    id="0c6de8c7-3556-4872-a7a2-e861837e6f1b">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="a92204a1-35fd-49ce-8062-de38938c4472">
@@ -12,6 +11,10 @@
         id="1e2ae235-ba83-44b6-b5b0-12899dd4c3b6"
         source="a92204a1-35fd-49ce-8062-de38938c4472"
         target="51ff661c-5189-49e9-bb70-3fe033723224">
+      <bendpoints
+          startY="-111"
+          endX="-168"
+          endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_7f6f4713-c60b-4980-984a-218e739b5fa2.xml#7f6f4713-c60b-4980-984a-218e739b5fa2"/>
@@ -33,6 +36,10 @@
         id="8fb334f4-69a2-40ff-8420-49e8fc08bf9a"
         source="fd370f0a-5105-44a8-a172-e91c62cd6660"
         target="51ff661c-5189-49e9-bb70-3fe033723224">
+      <bendpoints
+          startY="-111"
+          endX="168"
+          endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_052ccaca-6168-4a27-8741-01d86dd8f5f8.xml#052ccaca-6168-4a27-8741-01d86dd8f5f8"/>
@@ -64,6 +71,14 @@
         id="d283b8d6-59a3-44e9-853c-aac0204eb696"
         source="0f1f632f-8eed-46d1-ba1b-3ad9c87d115a"
         target="51ff661c-5189-49e9-bb70-3fe033723224">
+      <bendpoints
+          startY="58"
+          endX="-336"
+          endY="-51"/>
+      <bendpoints
+          startX="336"
+          startY="58"
+          endY="-51"/>
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_d323c7eb-342c-491d-87fc-738fd330fcb0.xml#d323c7eb-342c-491d-87fc-738fd330fcb0"/>
@@ -124,7 +139,7 @@
       id="38185ed3-fed3-4007-9e36-3e6527628a2e"
       targetConnections="29a98147-62b4-442a-a0fb-826451018936">
     <bounds
-        x="528"
+        x="540"
         y="65"
         width="120"
         height="68"/>
