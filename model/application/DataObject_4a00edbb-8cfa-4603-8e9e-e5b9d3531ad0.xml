@@ -1,5 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NLX log"
-    id="4a00edbb-8cfa-4603-8e9e-e5b9d3531ad0"
-    documentation="Mandatory data:&#xA;Organisation-id: Organisation which made the call (the API consumer)&#xA;Log record-id: Unique identifier of API-request (provided by API consumer)&#xA;Why&#x9;: Purpose specification (provided by API consumer)&#xA;What: Name of connected NLX-inway&#xA;When: Timestamp&#xA;Result code: Code representing if the call was a success&#xA;Result description: Description of error if call not successful  &#xA;&#xA;Optional data:&#xA;Application-id: Application which initiated the API-call&#xA;User-id: End-user identification&#xA;"/>
