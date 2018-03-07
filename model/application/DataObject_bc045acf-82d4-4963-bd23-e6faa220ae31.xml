@@ -1,5 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NLX log client"
-    id="4c277870-ea74-47b2-9830-09a76e1edfbe"
+    name="NLX log resource"
+    id="bc045acf-82d4-4963-bd23-e6faa220ae31"
     documentation="Organisation-id: Organisation which made the call (the API consumer)&#xA;Log record-id: Unique identifier of API-request (provided by API consumer)&#xA;Why: Purpose specification (provided by API consumer)&#xA;What: Name of API connected to NLX-inway&#xA;When: Timestamp&#xA;Result code: Code representing if the call was a success&#xA;Result description: Description of error if call not successful  &#xA;"/>
