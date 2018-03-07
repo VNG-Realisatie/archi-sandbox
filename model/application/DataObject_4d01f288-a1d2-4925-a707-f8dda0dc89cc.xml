@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource application log"
+    id="4d01f288-a1d2-4925-a707-f8dda0dc89cc"
+    documentation="Organisation-id: Organisation which made the call (the API consumer)&#xA;Log record-id: Unique identifier of API-request (provided by API consumer)&#xA;Why: Purpose specification (provided by API consumer)&#xA;What: API name&#xA;When: Timestamp&#xA;Data-request: Requested data elements/categories&#xA;Data-response: Received data elements/categories&#xA;Result code: Code representing if the call was a success&#xA;Result description: Description of error if call not successful  &#xA;"/>

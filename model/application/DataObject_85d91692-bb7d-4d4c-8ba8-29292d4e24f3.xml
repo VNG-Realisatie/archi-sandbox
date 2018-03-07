@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Client application log"
+    id="85d91692-bb7d-4d4c-8ba8-29292d4e24f3"
+    documentation="Process-id: Unique identifier of originating process&#xA;Log record-id: Unique identifier of API-request &#xA;Application-id: Application which made the call&#xA;User-id: End-user identification&#xA;Why: Purpose specification (from matrix)&#xA;What: Name of NLX-outway called&#xA;When: Timestamp&#xA;Data-request: Requested data elements/categories&#xA;Data-response: Received data elements/categories&#xA;Result code: Code representing if the call was a success&#xA;Result description: Description of error if call not successful  &#xA;&#xA;"/>
