@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Organisatie"
+    name="Stakeholders and main functions"
     id="7de75dbf-b50c-4580-b6fe-8ee6ecc37527">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -194,5 +194,17 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_10565c37-9cac-42e1-a20c-a9cde4273207.xml#10565c37-9cac-42e1-a20c-a9cde4273207"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="5a9e2078-6805-4b3a-bb0b-400c3cdc69c1">
+    <bounds
+        x="72"
+        y="420"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_3e3e5abc-143f-4274-a88c-112cdc55dad7.xml#3e3e5abc-143f-4274-a88c-112cdc55dad7"/>
   </children>
 </archimate:ArchimateDiagramModel>
