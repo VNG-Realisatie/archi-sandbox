@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="5"
-    id="45b2f04c-f0cf-4573-9187-3fbb350a8ca7">
+    id="45b2f04c-f0cf-4573-9187-3fbb350a8ca7"
+    documentation="The inway interface routes the call to the connected inway interface of the requesting NLX outway. ">
   <source
       xsi:type="archimate:ApplicationInterface"
       href="ApplicationInterface_34af462b-cce7-4b65-8adb-16825c5f7eea.xml#34af462b-cce7-4b65-8adb-16825c5f7eea"/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Secure network communcation"
-    id="7ff5dda5-19fe-4fb8-ad86-30748c2c4db7"/>
+    id="7ff5dda5-19fe-4fb8-ad86-30748c2c4db7"
+    documentation="Communication between NLX clients and resources is based on mutual TLS. In a testing and demo environment the NLX provides a certificate authority.&#xA;"/>

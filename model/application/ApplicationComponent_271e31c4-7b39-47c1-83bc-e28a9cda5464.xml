@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NLX node client"
-    id="271e31c4-7b39-47c1-83bc-e28a9cda5464"/>
+    name="NLX node (client)"
+    id="271e31c4-7b39-47c1-83bc-e28a9cda5464"
+    documentation="The NLX node hosted by the client logs all calls to NLX inway and outway interfaces."/>

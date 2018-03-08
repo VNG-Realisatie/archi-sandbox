@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2"
-    id="30623ef3-315e-4265-a98f-20e82c795e6f">
+    id="30623ef3-315e-4265-a98f-20e82c795e6f"
+    documentation="The outway interface logs the call in the NLX log and routes the call to the connected inway interface of an NLX node resource. The NLX node resource can be hosted by an external organisation or by the local organisation .">
   <source
       xsi:type="archimate:ApplicationInterface"
       href="ApplicationInterface_bdc3c317-d97a-43e5-8a02-3625a1fce89d.xml#bdc3c317-d97a-43e5-8a02-3625a1fce89d"/>

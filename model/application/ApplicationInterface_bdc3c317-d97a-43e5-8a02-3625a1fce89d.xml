@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Outway client"
-    id="bdc3c317-d97a-43e5-8a02-3625a1fce89d"/>
+    name="Outway"
+    id="bdc3c317-d97a-43e5-8a02-3625a1fce89d"
+    documentation="An outway interface is used by client applications to call APIs offered by inway interfaces of NLX nodes."/>

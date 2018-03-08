@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API"
+    id="1af37ae8-bebc-4abc-b67f-8571dd5a2b99"
+    documentation="A function which access the features or data of a resource application and exposes it to an NLX inway interface."/>
