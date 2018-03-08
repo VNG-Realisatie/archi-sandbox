@@ -1,0 +1,5 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contract"
+    id="6b6d9bb8-c6c8-4c14-94cf-b2b03a21d449"
+    documentation="A contract contains the agreements that the data controller and data processor have made concerning subject matter and duration of the processing, the nature and purpose of the processing, the type of personal data to be processed, the categories of data subjects and the obligations and rights of the controller. &#xA;&#xA;Agreements made between data controller and data processor should be reflected in the data processing agreements of both parties."/>
