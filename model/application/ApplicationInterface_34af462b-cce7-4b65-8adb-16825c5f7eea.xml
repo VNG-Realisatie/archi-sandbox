@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inway"
     id="34af462b-cce7-4b65-8adb-16825c5f7eea"
-    documentation="Inways are used to publish APIs on the NLX network. Inways  connects itself to the NLX network and registers its services on the NLX network."/>
+    documentation="Inways are used to publish APIs on the NLX network. Inways  connects itself to the NLX network and registers its services on the NLX network.&#xA;&#xA;Inways check if the organisation making the request has sufficient access rights by checking the data processing agreement that has been drafted between the resource and client organisations."/>

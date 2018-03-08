@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="f1359d5e-a07f-4131-aab5-41e7522e7116"
+    documentation="End-user can only access application functions for which he/she is authorised. Access rights for end-users are managed in a directory service.">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_4e6260de-ee64-4160-bedd-fc752ad85969.xml#4e6260de-ee64-4160-bedd-fc752ad85969"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_bc631720-1dfa-464a-8cfb-2e65e73949e6.xml#bc631720-1dfa-464a-8cfb-2e65e73949e6"/>
+</archimate:ServingRelationship>

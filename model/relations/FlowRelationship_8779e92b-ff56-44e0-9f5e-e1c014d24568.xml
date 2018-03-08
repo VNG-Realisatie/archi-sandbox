@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mutual TLS or API-key"
+    id="8779e92b-ff56-44e0-9f5e-e1c014d24568">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_34af462b-cce7-4b65-8adb-16825c5f7eea.xml#34af462b-cce7-4b65-8adb-16825c5f7eea"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_e683d811-6554-44e4-9397-7087c5715eae.xml#e683d811-6554-44e4-9397-7087c5715eae"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="0b2f5f50-19c4-4b2a-877c-634b3f2ad7b7"
+    documentation="Functional authorisation of end-user">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_7080cbae-d677-4ccc-9c5f-acbfad155c57.xml#7080cbae-d677-4ccc-9c5f-acbfad155c57"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_9f315bfc-1d33-48a5-bdac-00a217159a62.xml#9f315bfc-1d33-48a5-bdac-00a217159a62"/>
+</archimate:ServingRelationship>
