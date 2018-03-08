@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Authentication"
+    name="Authentication and authorisation"
     id="6b7c03aa-1122-4956-a728-fb086ad33bb7"
     documentation="Authentication on basis of mutual TLS. Certificates are provided by a central certicate authority.">
   <children
